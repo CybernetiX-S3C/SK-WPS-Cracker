@@ -17,7 +17,7 @@ and some commands, in automatic way to do its job. Enjoy
 ## Video
 
 *Tutorial
-[SK-WPS-Cracker](https://youtu.be/hKBKxvc500I)
+[SK-WPS-Cracker](https://youtu.be/newiXU4de_M)
 
 ## Here is how to make the script works
 
