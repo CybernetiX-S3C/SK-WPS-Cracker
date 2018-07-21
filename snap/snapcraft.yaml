@@ -1,0 +1,16 @@
+
+  name: sk-wps-cracker
+  version: '1.0' 
+  summary: This tool is used to crack WPS using a combination of tools.
+  description: |
+      This tool is used to crack the 11,000 combination WPS using aircrack, wps-pixie
+      and some other tools.
+
+  grade: stable
+  confinement: strict
+
+  parts:
+    my-part:
+      # See 'snapcraft plugins'
+      plugin: nil
+  
